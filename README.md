@@ -1,3 +1,3 @@
 # Documentation
 
-## [GIT] (git.md)
+## [GIT](/git.md)
